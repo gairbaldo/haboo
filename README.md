@@ -25,4 +25,4 @@ Share!
 Haboo is an open source project.
 Be part of the Haboo community, contribute and help improve the International Education Industry.
 E.: info@haboo.org
-S.: haboo.org
+S.: www.haboo.org
